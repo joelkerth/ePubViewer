@@ -1,0 +1,16 @@
+.rpi-plugin-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.rpi-card {
+    background: #fff;
+    border: 1px solid #ccd0d4;
+    padding: 15px;
+    width: 280px;
+}
+
+.rpi-card h2 {
+    margin-top: 0;
+}
